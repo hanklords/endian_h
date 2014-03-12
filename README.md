@@ -1,7 +1,7 @@
 endian.h for MAC OSX
 ====================
 
-This is an endian.h c header as found on other unix (linux and BSDs) for OS X.
+This is an `endian.h` header as found on other unix (linux and BSDs) for OS X.
 It defines big/little endian conversion macros.
 
 Usage
