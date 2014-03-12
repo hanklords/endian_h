@@ -13,4 +13,4 @@ Usage
 
 ### Manually
 
-or just copy endian.h in /usr/include/local or directly in your project.
+or just copy `endian.h` in `/usr/include/local` or directly in your project.
